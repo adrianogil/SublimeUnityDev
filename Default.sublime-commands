@@ -1,0 +1,8 @@
+[
+    {   "caption": "UnityDevTools: Switch to Meta",
+        "command": "switch_to_meta"
+    },
+    {   "caption": "UnityDevTools: Switch From Meta",
+        "command": "switch_from_meta"
+    },
+]
